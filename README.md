@@ -30,6 +30,7 @@ The primary goal of this project is to:
 - **Matplotlib, Seaborn**: Data visualization.
 - **Jupyter Notebooks**: Interactive development and visualization environment.
 - **Flask/Streamlit**: Deploying Web App.
+- **QGIS**: GIS Analysis
 
 ## **TO-DO**
 
